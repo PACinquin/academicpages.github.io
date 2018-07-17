@@ -1,5 +1,5 @@
 ---
-title: "Paper CHI"
+title: "Understanding Users’ Capability to Transfer Information between Mixed and Virtual Reality: Position Estimation across Modalities and Perspectives"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the npaper CHI'
