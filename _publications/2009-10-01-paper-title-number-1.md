@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Towards Truly Accessible MOOCs for Persons with Cognitive Disabilities: Design and Field Assessment"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: ''
+date: 2018-07-13
+venue: '16th International Conference on Computers Helping People with Special Needs (ICCHP 2018)'
+paperurl: ''
+citation: 'Pierre-Antoine Cinquin, Pascal Guitton, Hélène Sauzeon. Towards Truly Accessible MOOCs for Persons with Cognitive Disabilities: Design and Field Assessment. ICCHP 2018 - 16th International Conference on Computers Helping People with Special Needs, Jul 2018, Linz, Austria.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+*Abstract :* 
+MOOCs are playing an increasingly important role in education systems. Unfortunately, MOOCs are not fully accessible. In this paper, we propose design principles to enhance the accessibility of MOOC players, especially for persons with cognitive disabilities. These
+principles result from a participatory design process gathering 7 persons with disabilities and 13 expert professionals. They are also inspired by various design approaches (Universal Design for Learning, Instructional Design, Environmental Support). We also
+detail the creation of a MOOC player offering a set of accessibility features that users can alter according to their needs and capabilities. We used it to teach a MOOC on digital accessibility. Finally, we conducted a field study to assess learning and usability outcomes for persons with cognitive and non-cognitive impairments. Results support the effectiveness of our player for increasing accessibility.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://hal.inria.fr/hal-01761462/file/icchp_HAL_final.pdf)
