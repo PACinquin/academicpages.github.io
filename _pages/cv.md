@@ -18,23 +18,29 @@ Education
 
 Work experience
 ======
-* Since February 2018: Consulting Manager
+* *Since February 2018:* Consulting Manager
   * CapGame Association
   * Accessibility training for video game developpers and publishers; Masterclasses; Workshops.
 
-* Since September 2016: Ph.D Researcher
+* *Since September 2016:* Ph.D Researcher
   * HACS Team (University of Bordeaux) / Potioc team (INRIA)
   * Design and evaluation of accessibility features for elearning platforms.
-  *  Supervised by Hélène Sauzéon and Pascal Guitton.
+  * Supervised by Hélène Sauzéon and Pascal Guitton.
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Social Sciences
+  * Experimental protocole conception.
+  * Data gathering through observations, interviews, surveys and lab experiments.
+  * Data analyzing with both descriptive and inferential statistical methods.
+* UX Design
+  * Data gathering through naturalistic observations, interviews, focus groups and surveys.
+  * Report and describe the Design space.
+  * Ideation through various brainstorming techniques.
+  * Lo-fi prototyping and paper mockups.
+* Computer Science
+  * I have some knowledge in Web development (HTML, CSS, JS)
+
 
 Publications
 ======
@@ -53,7 +59,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
