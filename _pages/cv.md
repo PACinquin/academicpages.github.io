@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Cognitive Science and Ergonomics, University of Bordeaux, 2019 (expected)
+* Master's Degree in Cognitive Science and Ergonomics, University of Bordeaux, 2016
+* Bachelor Degree in Education Science, University of Paris 8, 2009
+* Two-year university degree in Education Science, University of Paris 8, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since February 2018: Consulting Manager
+  * CapGame Association
+  * Accessibility training for video game developpers and publishers; Masterclasses; Workshops.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Since September 2016: Ph.D Researcher
+  * HACS Team (University of Bordeaux) / Potioc team (INRIA)
+  * Design and evaluation of accessibility features for elearning platforms.
+  *  Supervised by Hélène Sauzéon and Pascal Guitton.
+
 Skills
 ======
 * Skill 1
